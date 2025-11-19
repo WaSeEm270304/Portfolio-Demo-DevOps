@@ -36,4 +36,4 @@ jobs:
         run: |
           echo "To deploy locally, run:"
           echo "docker pull waseem270304/cicd-demo:latest"
-          echo "docker run -d -p 8080:80 sndass/cicd-demo:latest"
+          echo "docker run -d -p 8080:80 waseem270304/cicd-demo:latest"
